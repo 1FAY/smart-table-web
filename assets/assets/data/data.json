@@ -6,10 +6,10 @@
       "description": "Горячие первые блюда на любой вкус.",
       "image": "soups.png",
       "foods": [
-        {"id": 101, "name": "Борщ", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 149.99},
-        {"id": 102, "name": "Куриный бульон", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 129.99},
-        {"id": 103, "name": "Грибной крем-суп", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 169.99},
-        {"id": 104, "name": "Солянка", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 159.99}
+        {"id": 101, "name": "Борщ", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/borsh.png", "price": 149.99},
+        {"id": 102, "name": "Куриный бульон", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/cup.png", "price": 129.99},
+        {"id": 103, "name": "Грибной крем-суп", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/grib.png", "price": 169.99},
+        {"id": 104, "name": "Солянка", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/solanka.png", "price": 159.99}
       ]
     },
     {
@@ -18,10 +18,10 @@
       "description": "Сытные и вкусные блюда для основного приема пищи.",
       "image": "main_dishes.png",
       "foods": [
-        {"id": 201, "name": "Стейк из говядины", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 499.99},
-        {"id": 202, "name": "Запеченный лосось", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 549.99},
-        {"id": 203, "name": "Курица гриль", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 299.99},
-        {"id": 204, "name": "Рататуй", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 199.99}
+        {"id": 201, "name": "Стейк из говядины", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/stake.png", "price": 499.99},
+        {"id": 202, "name": "Запеченный лосось", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/losos.png", "price": 549.99},
+        {"id": 203, "name": "Курица гриль", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/kuritsa.png", "price": 299.99},
+        {"id": 204, "name": "Рис", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/ris.png", "price": 199.99}
       ]
     },
     {
@@ -30,10 +30,10 @@
       "description": "Легкие и полезные салаты из свежих продуктов.",
       "image": "salads.png",
       "foods": [
-        {"id": 301, "name": "Цезарь с курицей", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 249.99},
-        {"id": 302, "name": "Греческий салат", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 199.99},
-        {"id": 303, "name": "Оливье", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 179.99},
-        {"id": 304, "name": "Свекольный салат", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 159.99}
+        {"id": 301, "name": "Цезарь с курицей", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/tsesar.png", "price": 249.99},
+        {"id": 302, "name": "Греческий салат", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/grek.png", "price": 199.99},
+        {"id": 303, "name": "Оливье", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/olivie.png", "price": 179.99},
+        {"id": 304, "name": "Свекольный салат", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/svekla.png", "price": 159.99}
       ]
     },
     {
@@ -42,10 +42,10 @@
       "description": "Освежающие и бодрящие напитки.",
       "image": "drinks.png",
       "foods": [
-        {"id": 401, "name": "Свежевыжатый апельсиновый сок", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 199.99},
-        {"id": 402, "name": "Капучино", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 149.99},
-        {"id": 403, "name": "Черный чай с лимоном", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 99.99},
-        {"id": 404, "name": "Домашний лимонад", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 179.99}
+        {"id": 401, "name": "Свежевыжатый апельсиновый сок", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/orange.png", "price": 199.99},
+        {"id": 402, "name": "Капучино", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/kapuchino.png", "price": 149.99},
+        {"id": 403, "name": "Черный чай с лимоном", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/chai.png", "price": 99.99},
+        {"id": 404, "name": "Домашний лимонад", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/lemonad.png", "price": 179.99}
       ]
     },
     {
@@ -54,10 +54,7 @@
       "description": "Сладкие угощения для настоящих гурманов.",
       "image": "desserts.png",
       "foods": [
-        {"id": 501, "name": "Чизкейк Нью-Йорк", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 249.99},
-        {"id": 502, "name": "Наполеон", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 229.99},
-        {"id": 503, "name": "Эклеры с кремом", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 199.99},
-        {"id": 504, "name": "Шоколадный фондан", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/test.png", "price": 269.99}
+        {"id": 501, "name": "Пирожок с вишней", "image": "https://storage.yandexcloud.net/mobile-dev/smart_table/pirozhok.png", "price": 249.99}
       ]
     }
   ]
